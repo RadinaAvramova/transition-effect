@@ -1,2 +1,1 @@
-# transition-effect
-transition-effect
+# Transition Effect in THREE.js
